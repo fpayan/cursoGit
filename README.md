@@ -9,3 +9,5 @@ Prueba de subida con el primer push:
 Prueba de autenticación.
 
 Prueba de autenticación dos.
+
+Prueba de autenticación tres desde la terminal bash con git-credential-winstore.
